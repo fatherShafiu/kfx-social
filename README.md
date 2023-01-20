@@ -1,4 +1,5 @@
 # README
+This is a social media app that behaves in similitude to twitter. feel free to contribute on both the frontend and backend. 
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
