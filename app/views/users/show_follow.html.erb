@@ -4,7 +4,7 @@
 <%= gravatar_for @user %> 
 <h1><%= @user.name %></h1> 
 <span><%= link_to "view my profile", @user %>
-</span> <span><b>Microposts:</b> 
+</span> <span><b>Tweets:</b> 
 <%= @user.microposts.count %></span> 
 </section> <section class="stats"> 
 <%= render 'shared/stats' %> <% if @users.any? %> <div class="user_avatars">
